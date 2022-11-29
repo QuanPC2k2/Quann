@@ -492,7 +492,7 @@ image: './assets/img/song18.jpg'
         const favHtmls=favouriteArray.map(index=>{
         
                 return `<div class='fav' index=${index}>
-                <img src='../lovesong.png'>  
+                <img src='./lovesong1.png'>  
                 ${this.songs[index].name} - ${this.songs[index].singer}
                 </div>`
             
