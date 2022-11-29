@@ -510,7 +510,7 @@ image: './assets/img/song18.jpg'
     },
     menuHandle: function() {
         
-    // Xử lý phần menu
+    // Xử lý phần menu 
 
         const __this=this;
         btnMenu.onclick=function(){
